@@ -22,7 +22,7 @@ public class Agente {
     }
 
     public void iniciarTiempoPreparacion() {
-        this.tiempoPreparacion = 5; // Simulación de preparación
+        this.tiempoPreparacion = 15; // Simulación de preparación
     }
 
     public void asignarInteraccion(Interaccion interaccion) {
